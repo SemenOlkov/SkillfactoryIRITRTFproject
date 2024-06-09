@@ -320,7 +320,7 @@ h3 {
         }
     }
 }
-@media (max-width: 570px) {
+@media (max-width: 770px) {
     .header {
         padding: 20px;
     }
@@ -390,5 +390,8 @@ h3 {
     .part {
         height: 245px;
         width: 290px;
+    }
+    .thidden {
+        display: block;
     }
 }
